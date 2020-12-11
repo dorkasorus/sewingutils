@@ -150,7 +150,7 @@ msgstr "L'assemblage a échoué"
 
 #: pdfstitcher.py:198
 msgid "Exception"
-msgstr ""
+msgstr "Exception"
 
 #: pdfstitcher.py:203
 msgid "Successfully written to"
